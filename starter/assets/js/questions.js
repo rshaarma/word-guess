@@ -1,17 +1,5 @@
 var questions = [
   {
-    title:
-      "The city of Venice is flooded every four years. The locals call this high water or acqua alta. What would you do during acqua alta?",
-    choices: [
-      "Jump in puddles and sing in the rain. I love water! ",
-      "Look for a dry place and hang tight until the water recedes ",
-      "Stroll the piazza without a care in the world. The weather can't stop me. ",
-      "Leave ASAP ",
-    ],
-    answer:
-      "Stroll the piazza without a care in the world. The weather can't stop me. ",
-  },
-  {
     title: "Which movie would you watch on a sleepy Sunday afternoon?",
     choices: [
       "Titanic ",
@@ -27,17 +15,7 @@ var questions = [
     choices: ["Magpie", "Pied wagtail", "Jay", "Great woodpecker"],
     answer: "Magpie",
   },
-  {
-    title:
-      "A friend invites you to the Great California Hippie Commune to grow your own crops and have a nice chat with local spirits. How do you respond?",
-    choices: [
-      "'Weirdo alert. He's out of his mind, I'm not going anywhere ",
-      "I might visit, but I'd have to make sure it's not dangerous ",
-      "Ancient spirits, here I come! ",
-      "'d be glad to spend some time and explore the area ",
-    ],
-    answer: "'d be glad to spend some time and explore the area ",
-  },
+
   {
     title: "Who was the Ancient Greek God of the Sun? ",
     choices: ["Apollo", "Apollo2", "Sigma43", "Lunar 1"],

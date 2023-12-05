@@ -1,8 +1,6 @@
 <br />
   <img width="1431" alt="Screenshot 2023-12-05 at 23 39 51" src="https://github.com/rshaarma/word-guess/assets/64362564/b84cac36-49ef-4df5-9fa4-f55eda1ad3d3">
 
-  <img width="1429" alt="Screenshot 2023-12-05 at 23 42 10" src="https://github.com/rshaarma/word-guess/assets/64362564/66fed126-8566-4cc4-8216-abb7db970797">
-
   <h3 align="center">Welcome to Quiz Application</h3>
 
   <p align="center">
@@ -33,8 +31,7 @@
 
 ## About The Project
 
-<img width="949" alt="Screenshot 2023-11-28 at 22 55 39" src="https://github.com/rshaarma/password-generator-app/assets/64362564/a35230a7-6e33-452d-abc1-e0fc6b9480f5">
-<img width="891" alt="Screenshot 2023-11-28 at 22 59 43" src="https://github.com/rshaarma/password-generator-app/assets/64362564/21d2a2dc-ada1-4212-b37e-8acb7ea1ddb4">
+<img width="1429" alt="Screenshot 2023-12-05 at 23 42 10" src="https://github.com/rshaarma/word-guess/assets/64362564/66fed126-8566-4cc4-8216-abb7db970797">
 
 This repository contains a web application to generate the password of length between 8 to 128 characters. UI takes different inputs from the user about the length of the password, characters they want to include like special characters, numbers, uppercase or lowercase letters.
 
