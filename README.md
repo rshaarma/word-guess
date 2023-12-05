@@ -33,7 +33,7 @@
 
 <img width="1429" alt="Screenshot 2023-12-05 at 23 42 10" src="https://github.com/rshaarma/word-guess/assets/64362564/66fed126-8566-4cc4-8216-abb7db970797">
 
-This repository contains a web application to generate the password of length between 8 to 128 characters. UI takes different inputs from the user about the length of the password, characters they want to include like special characters, numbers, uppercase or lowercase letters.
+This repository contains a web application about Word Quiz. It displays questions on screen with four choices with one correct answer and timer. UI takes different inputs from the user. And in the end final scores been display on another screen with options to delete the scores or Goback to main screen.
 
 The live website has been deployed to
 Github Pages. This project was developed by [Rohit](https://github.com/rshaarma) .
