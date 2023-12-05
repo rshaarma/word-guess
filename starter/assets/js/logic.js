@@ -1,1 +1,10 @@
-var startButton = document.getElementById("#start");
+var totalTime = 75;
+var currentQuestion = 0;
+var timerState;
+var timer = document.querySelector("#time");
+var startButton = document.querySelector("#start");
+var questionsDiv = document.querySelector("#questions");
+var choicesDiv = document.querySelector("#choices");
+var submitButton = document.querySelector("#submit");
+var nameInitials = document.querySelector("#initials");
+var feedbackDiv = document.querySelector("#feedback");
