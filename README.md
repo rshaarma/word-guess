@@ -1,4 +1,5 @@
 <br />
+  <img width="1431" alt="Screenshot 2023-12-05 at 23 39 51" src="https://github.com/rshaarma/word-guess/assets/64362564/b84cac36-49ef-4df5-9fa4-f55eda1ad3d3">
 
   <h3 align="center">Welcome to Password Generator Application</h3>
 
