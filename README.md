@@ -5,7 +5,7 @@
 
   <p align="center">
     <strong>Explore the docs »</strong>
-    <a href="https://rshaarma.github.io/password-generator-app//">View Demo</a>
+    <a href="https://rshaarma.github.io/word-guess/index.html//">View Demo</a>
     ·
     <a href="https://github.com/rshaarma/word-guess/issues">Report Bug</a>
     ·
